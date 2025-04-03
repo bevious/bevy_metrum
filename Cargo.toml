@@ -1,0 +1,12 @@
+[package]
+name = "bevy_metrum"
+version = "0.0.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+description = "A points system for the Bevy game engine"
+authors = ["iizudev <izudev@yandex.ru>"]
+categories = ["game-development"]
+keywords = ["gamedev", "bevy-plugin"]
+
+[dependencies]
+bevy = { version = "0.15", default-features = false }
